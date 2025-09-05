@@ -10,7 +10,7 @@ Description: Contains details about Titanic passengers including class, gender, 
 
 # Process Followed 
 
-# Data Cleaning
+- Data Cleaning
 
 - Treated missing values in Age, Cabin, and Embarked columns
 
