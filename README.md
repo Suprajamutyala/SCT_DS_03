@@ -54,8 +54,3 @@ Description: Contains details about Titanic passengers including class, gender, 
 
 - The analysis highlights how exploratory data analysis can uncover important trends and relationships in data.
 - In the Titanic dataset, gender, class, and age were the most significant factors that influenced survival chances.
-
- 
-Titanic Dataset – Kaggle
-
-SkillCraft Technology Internship Program
